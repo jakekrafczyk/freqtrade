@@ -46,7 +46,7 @@ dependencies:
     # Required for app
     - cython
     - pycoingecko
-    - ccxt
+    - ccxt==1.30.15
     - TA-Lib
     - py_find_1st
     - sdnotify
